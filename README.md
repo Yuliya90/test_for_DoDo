@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Запуск
 
 ```bash
-python main.py --video видео 1.mp4
+python main.py --video "видео 1.mp4"
 ```
 
 ### Параметры
